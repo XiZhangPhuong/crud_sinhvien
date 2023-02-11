@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1092835531498",
+    "firebase_url": "https://crud-d7f6c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-d7f6c",
+    "storage_bucket": "crud-d7f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092835531498:android:703c17ddc5dfeccf871593",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092835531498-18gp1mh49qg71go1plcqj24dgd0rf2vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-l19DASmreVLrOTAp8TsawdyGLzj_D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092835531498-18gp1mh49qg71go1plcqj24dgd0rf2vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092835531498:android:57d62d3d7ac5d91a871593",
+        "android_client_info": {
+          "package_name": "com.example.izi_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092835531498-18gp1mh49qg71go1plcqj24dgd0rf2vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-l19DASmreVLrOTAp8TsawdyGLzj_D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092835531498-18gp1mh49qg71go1plcqj24dgd0rf2vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
